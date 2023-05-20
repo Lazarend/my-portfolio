@@ -23,9 +23,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "deploy": "mate-scripts deploy",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "mate-scripts start",
+    "build": "mate-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
